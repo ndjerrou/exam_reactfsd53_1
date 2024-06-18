@@ -1,19 +1,17 @@
-{
-  "products": [
-    {
-      "name": "Laptop",
-      "description": "A high-performance laptop suitable for gaming and work.",
-      "price": 1200.99
-    },
-    {
-      "name": "Smartphone",
-      "description": "A latest model smartphone with advanced features and excellent camera quality.",
-      "price": 799.49
-    },
-    {
-      "name": "Headphones",
-      "description": "Wireless headphones with noise cancellation and long battery life.",
-      "price": 199.99
-    }
-  ]
-}
+[
+  {
+    "name": "Laptop",
+    "description": "A high-performance laptop suitable for gaming and work.",
+    "price": 1200.99
+  },
+  {
+    "name": "Smartphone",
+    "description": "A latest model smartphone with advanced features and excellent camera quality.",
+    "price": 799.49
+  },
+  {
+    "name": "Headphones",
+    "description": "Wireless headphones with noise cancellation and long battery life.",
+    "price": 199.99
+  }
+]

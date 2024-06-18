@@ -3,9 +3,12 @@ import Product from './Product';
 function ProductList({ products }) {
   return (
     <>
-      {products.map(product => (
-        <Product key={product.name} {...product} />
-      ))}
+      <h1>Mes produits</h1>
+      <div style={{ display: 'flex' }}>
+        {products.map(product => (
+          <Product key={product.name} {...product} />
+        ))}
+      </div>
     </>
   );
 }
